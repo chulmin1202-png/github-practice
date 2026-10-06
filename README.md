@@ -1,5 +1,5 @@
 # **이철민**
-                                              **Good morning. Nice to meet you. I am Lee Cheol-min🪽**
+                                              Good morning. Nice to meet you. I am Lee Cheol-min🪽
 <img width="220" height="293" alt="SuspiciousMonkeyGIFbyMOODMAN" src="https://github.com/user-attachments/assets/b325d92a-99de-4916-af77-eb220d887274" />
 
 ## 취미
