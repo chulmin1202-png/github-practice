@@ -6,6 +6,7 @@
 - **운동**
 - 그림
 - 독서
+- **옷 아이쇼핑**
 ## 목표
 - **500억 자산가**
 ![부자](https://img.shields.io/badge/부자-239120?style=flat-square&logo=c-sharp&logoColor=white)
