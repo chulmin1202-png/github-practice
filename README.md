@@ -1,2 +1,2 @@
-# github-practice
-#이철민
+# 이철민
+
