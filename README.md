@@ -17,4 +17,5 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:chulmin1202@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https:https://www.youtube.com/channel/UCDXrnSAccohNJC0T8p9b9tA/posts?pvf=CAI%253D//www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
