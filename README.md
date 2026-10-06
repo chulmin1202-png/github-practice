@@ -12,5 +12,5 @@
 
 
 
-## GITHUb 능력치
+## GITHUB
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chulmin1202-png&show_icons=true&theme=radical)
