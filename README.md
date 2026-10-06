@@ -8,4 +8,4 @@
 - 독서
 ## 목표
 - 500억 자산가
-![부자](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![부자](https://img.shields.io/badge/부자-239120?style=flat-square&logo=c-sharp&logoColor=white)
