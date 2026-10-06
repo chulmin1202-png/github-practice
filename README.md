@@ -1,5 +1,6 @@
 # **이철민**
-안녕하세요 :) 이철민 입니다
+Good morning. Nice to meet you. I am Lee Cheol-min🪽<img width="373" height="480" alt="wingGIF" src="https://github.com/user-attachments/assets/8e13418b-c80d-4683-9232-79c39b46bd50" />
+
 ## 취미
 - **돈 공부**
 - 게임
